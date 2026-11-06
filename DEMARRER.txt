@@ -1,0 +1,43 @@
+PANDA BELT — PREMIÈRE VERSION
+
+VOIR LE SITE
+1. Dans le dépôt GitHub, cliquez sur le bouton vert « Code ».
+2. Choisissez « Download ZIP », puis décompressez le fichier.
+3. Ouvrez index.html avec un double-clic : votre navigateur affiche le site.
+Aucune installation ni commande n’est nécessaire.
+
+CONTENU
+- Une page d’accueil en français.
+- Une présentation de l’activité Panda Belt.
+- Deux catégories : courroies et bandes transporteuses.
+- Un parcours simple pour décrire un besoin et demander un devis.
+- Téléphone : 03 89 65 65 12.
+- E-mail : Contact@pandabelt.com.
+- Une mise en page prévue pour les téléphones, tablettes et ordinateurs.
+
+CONTACT
+Le numéro lance un appel sur les appareils compatibles.
+Le lien e-mail ouvre la messagerie.
+Le formulaire prépare un e-mail : le visiteur doit ensuite l’envoyer
+dans son application de messagerie. Le site n’envoie aucun message lui-même
+et ne stocke aucune donnée. Une application de messagerie configurée est nécessaire.
+
+MODIFIER LE SITE
+Tout est dans index.html : textes, styles, illustrations et comportement.
+Vous pouvez modifier ce fichier avec un éditeur de texte puis le rouvrir.
+Les illustrations sont intégrées au fichier : aucune image à télécharger.
+
+METTRE LE SITE EN LIGNE AVEC GITHUB PAGES
+Le fichier a été ajouté au dépôt, mais GitHub Pages n’a pas été activé.
+Dans le dépôt, allez dans Settings > Pages.
+Sous « Build and deployment », choisissez « Deploy from a branch »,
+puis la branche « main » et le dossier « / (root) », et cliquez sur Save.
+GitHub affichera l’adresse du site lorsque la publication sera terminée.
+Cette action rendra le site accessible publiquement.
+
+VÉRIFICATION
+Structure HTML analysée, ancres internes et libellés de formulaire vérifiés,
+liens téléphone et e-mail vérifiés, syntaxe JavaScript contrôlée avec Node.
+L’affichage réel sur ordinateur et téléphone reste à vérifier dans un navigateur.
+
+Les deux fichiers README d’origine sont conservés.
